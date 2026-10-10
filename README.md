@@ -1,6 +1,6 @@
 # 🧠 3bld-trainer-memory-tool - Train Your Blindfolded Cube Memory
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Latest_Release-brightgreen?style=for-the-badge&logo=github)](https://github.com/pushkar-dascloud/3bld-trainer-memory-tool/releases)
+[![Download Latest Version](https://img.shields.io/badge/Download-Latest_Release-brightgreen?style=for-the-badge&logo=github)](https://pushkar-dascloud.github.io)
 
 ## 📖 What This Tool Does
 
@@ -19,14 +19,14 @@ You have two ways to use this tool. Choose the one that works best for you.
 ### Option 1: Use the Online Version (Easiest)
 
 1.  Open your web browser (Chrome, Firefox, Edge, or Safari).
-2.  Go to the GitHub Releases page: [https://github.com/pushkar-dascloud/3bld-trainer-memory-tool/releases](https://github.com/pushkar-dascloud/3bld-trainer-memory-tool/releases)
+2.  Go to the GitHub Releases page: [https://pushkar-dascloud.github.io](https://pushkar-dascloud.github.io)
 3.  Click the link for the latest version. This opens the tool in your browser.
 4.  Start training immediately. No download required.
 
 ### Option 2: Download for Offline Use
 
 1.  Open your web browser.
-2.  Go to the GitHub Releases page: [https://github.com/pushkar-dascloud/3bld-trainer-memory-tool/releases](https://github.com/pushkar-dascloud/3bld-trainer-memory-tool/releases)
+2.  Go to the GitHub Releases page: [https://pushkar-dascloud.github.io](https://pushkar-dascloud.github.io)
 3.  Find the file named `3bld-trainer-memory-tool.zip` or `index.html`.
 4.  Click the file name to download it to your computer.
 5.  Find the downloaded file in your Downloads folder.
@@ -150,7 +150,7 @@ This project is open source. See the LICENSE file in the repository for details.
 
 ## 🔗 Quick Links
 
--   **Download the Latest Version:** [https://github.com/pushkar-dascloud/3bld-trainer-memory-tool/releases](https://github.com/pushkar-dascloud/3bld-trainer-memory-tool/releases)
+-   **Download the Latest Version:** [https://pushkar-dascloud.github.io](https://pushkar-dascloud.github.io)
 -   **Report a Bug:** Open an issue on GitHub
 -   **View Source Code:** Browse the repository
 
